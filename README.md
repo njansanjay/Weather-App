@@ -48,8 +48,8 @@ Weather-App/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+git clone https://github.com/njansanjay/Weather-App.git
+cd Weather-App
 ```
 
 ---
