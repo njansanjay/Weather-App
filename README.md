@@ -69,7 +69,7 @@ Create a free API key.
 Open `script.js` and replace:
 
 ```javascript
-let apiKey = "YOUR_API_KEY";
+let apiKey = "44f3287dc6efb3ce428c1f9e3324e93b";
 ```
 
 with your actual API key.
